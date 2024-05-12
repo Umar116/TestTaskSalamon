@@ -1,2 +1,2 @@
-Запуск всех тестов по команде ./gradlew test
-Запуск отчетов allure serve ./allure-results
+1) Запуск всех тестов по команде ./gradlew test
+2) Запуск отчетов allure serve ./allure-results
